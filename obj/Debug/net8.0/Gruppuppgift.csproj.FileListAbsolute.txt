@@ -1,0 +1,15 @@
+C:\Users\Niklas Allard\Desktop\KYH\CICD\Gruppuppgift\bin\Debug\net8.0\Gruppuppgift.exe
+C:\Users\Niklas Allard\Desktop\KYH\CICD\Gruppuppgift\bin\Debug\net8.0\Gruppuppgift.deps.json
+C:\Users\Niklas Allard\Desktop\KYH\CICD\Gruppuppgift\bin\Debug\net8.0\Gruppuppgift.runtimeconfig.json
+C:\Users\Niklas Allard\Desktop\KYH\CICD\Gruppuppgift\bin\Debug\net8.0\Gruppuppgift.dll
+C:\Users\Niklas Allard\Desktop\KYH\CICD\Gruppuppgift\bin\Debug\net8.0\Gruppuppgift.pdb
+C:\Users\Niklas Allard\Desktop\KYH\CICD\Gruppuppgift\obj\Debug\net8.0\Gruppuppgift.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Niklas Allard\Desktop\KYH\CICD\Gruppuppgift\obj\Debug\net8.0\Gruppuppgift.AssemblyInfoInputs.cache
+C:\Users\Niklas Allard\Desktop\KYH\CICD\Gruppuppgift\obj\Debug\net8.0\Gruppuppgift.AssemblyInfo.cs
+C:\Users\Niklas Allard\Desktop\KYH\CICD\Gruppuppgift\obj\Debug\net8.0\Gruppuppgift.csproj.CoreCompileInputs.cache
+C:\Users\Niklas Allard\Desktop\KYH\CICD\Gruppuppgift\obj\Debug\net8.0\Gruppuppgift.sourcelink.json
+C:\Users\Niklas Allard\Desktop\KYH\CICD\Gruppuppgift\obj\Debug\net8.0\Gruppuppgift.dll
+C:\Users\Niklas Allard\Desktop\KYH\CICD\Gruppuppgift\obj\Debug\net8.0\refint\Gruppuppgift.dll
+C:\Users\Niklas Allard\Desktop\KYH\CICD\Gruppuppgift\obj\Debug\net8.0\Gruppuppgift.pdb
+C:\Users\Niklas Allard\Desktop\KYH\CICD\Gruppuppgift\obj\Debug\net8.0\Gruppuppgift.genruntimeconfig.cache
+C:\Users\Niklas Allard\Desktop\KYH\CICD\Gruppuppgift\obj\Debug\net8.0\ref\Gruppuppgift.dll
