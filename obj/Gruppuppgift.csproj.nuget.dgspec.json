@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Niklas Allard\\Desktop\\KYH\\CICD\\Gruppuppgift\\Gruppuppgift.csproj": {}
+    "C:\\Users\\axell\\OneDrive\\Skrivbord\\Gruppuppgift\\Gruppuppgift\\Gruppuppgift.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Niklas Allard\\Desktop\\KYH\\CICD\\Gruppuppgift\\Gruppuppgift.csproj": {
+    "C:\\Users\\axell\\OneDrive\\Skrivbord\\Gruppuppgift\\Gruppuppgift\\Gruppuppgift.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Niklas Allard\\Desktop\\KYH\\CICD\\Gruppuppgift\\Gruppuppgift.csproj",
+        "projectUniqueName": "C:\\Users\\axell\\OneDrive\\Skrivbord\\Gruppuppgift\\Gruppuppgift\\Gruppuppgift.csproj",
         "projectName": "Gruppuppgift",
-        "projectPath": "C:\\Users\\Niklas Allard\\Desktop\\KYH\\CICD\\Gruppuppgift\\Gruppuppgift.csproj",
-        "packagesPath": "C:\\Users\\Niklas Allard\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Niklas Allard\\Desktop\\KYH\\CICD\\Gruppuppgift\\obj\\",
+        "projectPath": "C:\\Users\\axell\\OneDrive\\Skrivbord\\Gruppuppgift\\Gruppuppgift\\Gruppuppgift.csproj",
+        "packagesPath": "C:\\Users\\axell\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\axell\\OneDrive\\Skrivbord\\Gruppuppgift\\Gruppuppgift\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Niklas Allard\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\axell\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
