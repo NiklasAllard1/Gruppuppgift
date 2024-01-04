@@ -1,0 +1,15 @@
+C:\Users\alleh\GruppUpgift(Calc)\Gruppuppgift\bin\Debug\net8.0\Gruppuppgift.exe
+C:\Users\alleh\GruppUpgift(Calc)\Gruppuppgift\bin\Debug\net8.0\Gruppuppgift.deps.json
+C:\Users\alleh\GruppUpgift(Calc)\Gruppuppgift\bin\Debug\net8.0\Gruppuppgift.runtimeconfig.json
+C:\Users\alleh\GruppUpgift(Calc)\Gruppuppgift\bin\Debug\net8.0\Gruppuppgift.dll
+C:\Users\alleh\GruppUpgift(Calc)\Gruppuppgift\bin\Debug\net8.0\Gruppuppgift.pdb
+C:\Users\alleh\GruppUpgift(Calc)\Gruppuppgift\obj\Debug\net8.0\Gruppuppgift.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alleh\GruppUpgift(Calc)\Gruppuppgift\obj\Debug\net8.0\Gruppuppgift.AssemblyInfoInputs.cache
+C:\Users\alleh\GruppUpgift(Calc)\Gruppuppgift\obj\Debug\net8.0\Gruppuppgift.AssemblyInfo.cs
+C:\Users\alleh\GruppUpgift(Calc)\Gruppuppgift\obj\Debug\net8.0\Gruppuppgift.csproj.CoreCompileInputs.cache
+C:\Users\alleh\GruppUpgift(Calc)\Gruppuppgift\obj\Debug\net8.0\Gruppuppgift.sourcelink.json
+C:\Users\alleh\GruppUpgift(Calc)\Gruppuppgift\obj\Debug\net8.0\Gruppuppgift.dll
+C:\Users\alleh\GruppUpgift(Calc)\Gruppuppgift\obj\Debug\net8.0\refint\Gruppuppgift.dll
+C:\Users\alleh\GruppUpgift(Calc)\Gruppuppgift\obj\Debug\net8.0\Gruppuppgift.pdb
+C:\Users\alleh\GruppUpgift(Calc)\Gruppuppgift\obj\Debug\net8.0\Gruppuppgift.genruntimeconfig.cache
+C:\Users\alleh\GruppUpgift(Calc)\Gruppuppgift\obj\Debug\net8.0\ref\Gruppuppgift.dll
